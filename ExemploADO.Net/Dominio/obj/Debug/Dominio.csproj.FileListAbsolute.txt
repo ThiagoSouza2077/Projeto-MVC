@@ -1,0 +1,5 @@
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\Dominio\bin\Debug\Dominio.dll
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\Dominio\bin\Debug\Dominio.pdb
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\Dominio\obj\Debug\Dominio.dll
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\Dominio\obj\Debug\Dominio.pdb
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache

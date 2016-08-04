@@ -1,0 +1,12 @@
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\RepositorioEF\bin\Debug\RepositorioEF.dll.config
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\RepositorioEF\bin\Debug\RepositorioEF.dll
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\RepositorioEF\bin\Debug\RepositorioEF.pdb
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\RepositorioEF\bin\Debug\Dominio.dll
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\RepositorioEF\bin\Debug\EntityFramework.dll
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\RepositorioEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\RepositorioEF\bin\Debug\Dominio.pdb
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\RepositorioEF\bin\Debug\EntityFramework.xml
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\RepositorioEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\RepositorioEF\obj\Debug\RepositorioEF.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\RepositorioEF\obj\Debug\RepositorioEF.dll
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\RepositorioEF\obj\Debug\RepositorioEF.pdb

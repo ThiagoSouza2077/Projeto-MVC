@@ -1,0 +1,7 @@
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\Repositorio\bin\Debug\Dominio.dll
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\Repositorio\bin\Debug\Dominio.pdb
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\Repositorio\obj\Debug\RepositorioADO.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\thiag\Documents\Projetos\ExemploADO.Net\Repositorio\obj\Debug\Repositorio.pdb
